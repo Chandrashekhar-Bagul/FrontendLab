@@ -1,0 +1,14 @@
+.header{
+    background-color:grey; 
+}
+
+.myForm{
+    background-color: green;
+    margin: auto;
+    width: 400px;
+    border: solid 1px;
+}
+.card{
+    background-color: bisque;
+    
+}
